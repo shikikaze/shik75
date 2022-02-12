@@ -7,6 +7,7 @@
 
 * Schematic
 * Soldered PCB
+* Firmware
 * Plate
 * Case
 * Hotswap PCB
